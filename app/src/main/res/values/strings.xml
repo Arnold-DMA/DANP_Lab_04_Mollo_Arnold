@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cursos_JPDS_01</string>
+    <string-array name="fondos">
+        <item>-Fondo-</item>
+        <item>Blanco</item>
+        <item>Azul</item>
+        <item>Verde</item>
+        <item>Amarillo</item>
+        <item>Gris</item>
+    </string-array>
+
+    <string-array name="fuentes">
+        <item>-Estilo-</item>
+        <item>Normal</item>
+        <item>Negrita</item>
+        <item>Cursiva</item>
+        <item>Negrita Cursiva</item>
+    </string-array>
+
+    <string-array name="tamanios">
+        <item>-Tamaño-</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+</resources>
